@@ -1,0 +1,24 @@
+mkdocs.yml
+    index.md
+    architecture-overview.md
+    /working-with-engines/README.md
+    /working-with-engines/understanding-engine-fundamentals.md
+    /working-with-engines/working-with-engines-using-ddl.md
+    /working-with-engines/working-with-engines-using-the-rest-api.md
+    /working-with-engines/working-with-engines-using-the-firebolt-manager.md
+    /working-with-engines/tuning-engine-performance.md
+    /concepts/README.md
+    /concepts/working-with-tables.md
+    /concepts/get-instant-query-response-time.md
+    /concepts/working with partitions.md
+    /concepts/working-with-semi-structured-data/README.md
+    /concepts/working-with-semi-structured-data/working-with-arrays.md
+    /concepts/working-with-semi-structured-data/ingesting-semi-structured-data.md
+    /concepts/working-with-semi-structured-data/working-with-parquet-arrays-of-structs-and-maps.md
+    /working-with-our-sql-editor/README.md
+    /working-with-our-sql-editor/keyboard-shortcuts-for-sql-workspace.md
+    /loading-data/README.md
+    /loading-data/loading-data-into-firebolt.md
+    /loading-data/continuously-loading-data.md
+    /loading-data/configuring-aws-role-access-amazon-s3.md
+    /integrations/integration-overview.md
