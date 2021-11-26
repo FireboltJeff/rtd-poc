@@ -24,4 +24,4 @@ nav:
         -Working with external tables: /loading-data/loading-data-into-firebolt.md
         -Incrementally loading data tutorial: /loading-data/continuously-loading-data.md
         -Using AWS roles to access Amazon S3: /loading-data/configuring-aws-role-access-amazon-s3.md
-    Integrations overview: /integrations/integration-overview.md
+    - Integrations overview: /integrations/integration-overview.md
