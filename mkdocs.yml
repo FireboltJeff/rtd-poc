@@ -1,5 +1,6 @@
-site-name: Firebolt docs process
+site_name: Firebolt docs process
 site_url: https://example.com
+docs_dir:
 nav:
     - Home: 'index.md'
     # - Getting started: 'index.md'
